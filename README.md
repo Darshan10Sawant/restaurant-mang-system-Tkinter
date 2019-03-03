@@ -1,3 +1,5 @@
-# it is desktop application using tkinter
+
 # restaurant-mang-system-Tkinter
-# i has been used pyhon 3 and Tkinter 
+
+it is desktop application using python(tkinter). it is college student base project
+it is base on dj oamen(youtube) model
